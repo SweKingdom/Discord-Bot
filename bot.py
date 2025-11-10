@@ -1,0 +1,1 @@
+# Loads cogs and sets up client
